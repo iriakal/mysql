@@ -12,6 +12,6 @@ a.actor_id=f.actor_id
 group by a.actor_id
 having total_films>10;
 
-
+-----erik
 select * from film 
 where title like 'K_%_%_%'
